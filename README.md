@@ -13,4 +13,4 @@ Then view under the Chrome performance profiler.
 
 ## Results
 
-See: [results](./results/README.md)
+See: [results](./results)
